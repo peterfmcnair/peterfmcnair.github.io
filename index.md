@@ -12,3 +12,6 @@ See [my "about" page](about).
 
 # What am I doing now?
 See [my "now" page](now).
+
+# Where are you writing?
+You can explore my [blog](blog) for personal ruminations and anecdotes and my [notes](https://publish.obsidian.md/serve?url=notes.peterfmcnair.com) for a more objective knowledge base.
