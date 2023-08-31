@@ -128,7 +128,7 @@ navbar-var-length: false
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#C5EDF5"
 text-col: "#404040"
 link-col: "#0085A1"
 hover-col: "#A11C00"
@@ -289,6 +289,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
