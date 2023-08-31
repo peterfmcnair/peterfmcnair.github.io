@@ -10,6 +10,4 @@ It's always the worst to foot a shared bill. You have to find the money from som
 <p align="center">
   <img width="100%" height="100%" src="../assets/img/2023-08-31-how-to-handle-lending-money-drawing-2023-08-31.svg">
 </p>
-<p align="center">
-  <img width="100%" height="100%" src="../assets/img/2023-08-31-drawing.svg">
-</p>
+![](../assets/img/2023-08-31-drawing.svg)
