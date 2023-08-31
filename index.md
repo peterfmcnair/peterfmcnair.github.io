@@ -5,7 +5,7 @@ cover-img: ["/assets/PXL_20230209_082554967.jpg" : "Sydney Harbour Bridge (2023)
 ---
 # Me in 10 seconds
 I'm an easily inspired [learnaholic](https://www.urbandictionary.com/define.php?term=learnaholic).
-I'm a firm believer in being [assiduous](https://en.wiktionary.org/wiki/assiduous) and not an ass.
+I'm a firm believer in being [assiduous](https://www.merriam-webster.com/dictionary/assiduous) and not an ass.
 
 # Me in 10 minutes
 See [my "about" page](about).
