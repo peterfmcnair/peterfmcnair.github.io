@@ -13,7 +13,7 @@ It's much better to pay for big things from a bank account that has plenty of bu
 
 A solution is to have an account purely for loans. You should know exactly how much is in this account (e.g. $1000). Next time you are the legend who got through on a music festival waiting list, you can just transfer the money easily.
 
-This then lets you immediately tell if you have overdue loans - just eyeball your loans account and if it's below the desired "$X". 
+This then lets you immediately tell if you have overdue loans - just eyeball your loans account and if it's below the desired "$X" you know that someone is holding out on you. 
 ![](../assets/img/2023-08-31-how-to-handle-lending-money-drawing-2023-08-31.svg)
 
 You should also 'pay yourself' back, i.e. pretend you are one of your friends! This way you get the wheels rolling on paying back. I also recommend setting up [PayID](https://payid.com.au/) so it is easy to allow friends to pay back in a timely way.
