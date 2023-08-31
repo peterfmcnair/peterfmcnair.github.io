@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lending Money"
+title:  "How to Handle Lending Money"
 date:   2023-08-31 11:08:30 +1000
 categories:
 tags:
