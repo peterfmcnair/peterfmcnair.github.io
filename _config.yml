@@ -19,11 +19,12 @@ author: Peter McNair
 ###############################################
 
 navbar-links:
+  Blog: "blog"
   Notes: "https://publish.obsidian.md/peterfmcnair"
+  Portfolio: "portfolio"
   Now: "now"
   About: "about"
-  Blog: "blog"
-  Portfolio: "portfolio"
+  
 
 ################
 # --- Logo --- #
