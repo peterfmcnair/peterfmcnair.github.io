@@ -17,9 +17,3 @@ See my ["now" page](now).
 You can explore [my blog](blog) for personal ruminations and anecdotes and [my notes](https://publish.obsidian.md/peterfmcnair) for a more objective knowledge base.
 
 I'm also developing some opinion and informative pieces on medium - check these out at [medium.com/@peterfmcnair](https://medium.com/@peterfmcnair).
-
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
-  <video style="height:100%;" controls>
-    <source src="https://lh3.googleusercontent.com/pw/AIL4fc-PzsmWRPMoNNOEfT20veu7eOyUvvnGDGROVACWoZSl1Z-BKgdrmi5JUn90b01PGDzd3598o15KLdQkPMOGm_OP7BPxtNssiwH5JcnxLhnMv4AV49dq=m37" type="video/mp4">
-  </video>
-</div>
