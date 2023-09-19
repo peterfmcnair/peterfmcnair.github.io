@@ -286,6 +286,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - "assets/img/*.md"
 
 plugins:
   - jekyll-paginate
