@@ -49,7 +49,7 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "peterfmcnair@gmail.com"
+  email: "peterfmcnair[at]gmail.com"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: peterfmcnair
   github: peterfmcnair
