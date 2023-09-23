@@ -11,5 +11,8 @@ One of my favourite creatures is the Spinifex hopping mouse.
 *Image: A very cute Spinifex hopping mouse hiding below a bilby*
 
 A little known and highly endangered cousin of the Spinifex hopping mouse is the Spinifex hopping mouth (pictured below).
-![spinifex-hopping-mouth-drawing](../assets/img/spinifex-hopping-mouth-drawing.svg)
+<p align="center">
+  <img width="100%" height="100%" src="../assets/img/spinifex-hopping-mouth-drawing.svg">
+</p>
+
 *Image: A Spinifex hopping mouth in the wild*
