@@ -14,6 +14,6 @@ See my ["about" page](about.md).
 See my ["now" page](now.md).
 
 # Where am I writing?
-You can explore [my blog](blog/index.html.md) for personal ruminations and anecdotes and [my notes](https://publish.obsidian.md/peterfmcnair) for a more objective knowledge base.
+You can explore [my blog](blog/index.md.md) for personal ruminations and anecdotes and [my notes](https://publish.obsidian.md/peterfmcnair) for a more objective knowledge base.
 
 I'm also developing some opinion and informative pieces on medium - check these out at [medium.com/@peterfmcnair](https://medium.com/@peterfmcnair).
