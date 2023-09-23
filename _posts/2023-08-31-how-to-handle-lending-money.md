@@ -22,4 +22,4 @@ This then lets you immediately tell if you have overdue loans - just eyeball you
 
 You should also 'pay yourself' back, i.e. pretend you are one of your friends! This way you get the wheels rolling on paying back. I also recommend setting up [PayID](https://payid.com.au/) so it is easy to allow friends to pay back in a timely way.
 
-I think of this "loans" account like [decoupling capacitors](https://en.wikipedia.org/wiki/Decoupling_capacitor) on a circuit board. They provide a little extra juice (in this case cash) when the device (you) need it. This is then filled back up as people pay it back and it's obvious when it's fully "charged".
+I think of this "loans" account like [decoupling capacitors](https://en.wikipedia.org/wiki/Decoupling_capacitor) (sorry if this is pretty technical, after all [what you do is how you see](what-you-do-is-how-you-see.md)) on a circuit board. They provide a little extra juice (in this case cash) when the device (you) need it. This is then filled back up as people pay it back and it's obvious when it's fully "charged".
