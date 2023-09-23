@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
-cover-img: "[[assets/img/sunswift-rural-testing-thumbs-up.jpg]]"
+cover-img: assets/img/sunswift-rural-testing-thumbs-up.jpg
 ---
 # Projects
 - [Sunswift VII](https://www.sunswift.com/)
