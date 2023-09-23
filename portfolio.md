@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Portfolio
+subtitle: My highlights and accomplishments
 permalink: /portfolio/
 cover-img: assets/img/sunswift-rural-testing-thumbs-up.jpg
 ---
