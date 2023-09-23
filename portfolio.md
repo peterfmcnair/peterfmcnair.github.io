@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Peter's Portfolio
+title: Portfolio
 permalink: /portfolio/
 ---
 # Projects
