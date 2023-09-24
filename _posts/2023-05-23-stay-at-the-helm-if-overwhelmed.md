@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Stay at the helm if overwhelmed"
-date:   2023-05-23 19:35:03 +1000
+title: Stay at the helm if overwhelmed
+date: 2023-05-23 19:35:03 +1000
 categories: 
-tags: ['philosophy']
+tags:
+  - philosophy
+cover-img: https://source.unsplash.com/CEMh4JRiSOI
 ---
 # Where to start when things pile up
 ## "It's cornflakes at work right now"

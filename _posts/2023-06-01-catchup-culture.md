@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "The Catchup Culture"
-date:   2023-05-29 22:56:07 +1000
-categories:
-tags: ['Australia']
+title: The Catchup Culture
+date: 2023-05-29 22:56:07 +1000
+categories: 
+tags:
+  - Australia
+cover-img: https://source.unsplash.com/nzyzAUsbV0M
 ---
 
 # The Catchup Culture
