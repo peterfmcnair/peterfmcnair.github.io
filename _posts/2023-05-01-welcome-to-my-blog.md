@@ -7,7 +7,7 @@ tags:
   - jekyll
   - coding
   - philosophy
-cover: https://source.unsplash.com/6wAGwpsXHE0
+cover-img: https://source.unsplash.com/6wAGwpsXHE0
 ---
 
 # Introduction
