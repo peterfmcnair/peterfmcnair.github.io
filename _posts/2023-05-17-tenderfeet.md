@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Tenderfeet"
-date:   2023-05-17 22:51:07 +1000
-categories:
-tags: philosophy
+title: Tenderfeet
+date: 2023-05-17 22:51:07 +1000
+categories: 
+tags:
+  - philosophy
+cover-img: https://source.unsplash.com/Dt86cdOH-x4
 ---
 # What it feels like to begin
 Starting a blog, I am shocked by the sheer number of blogs out there already. I almost feel that I am doing a disservice to the world by adding to the noise; almost.
