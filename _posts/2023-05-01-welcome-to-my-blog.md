@@ -1,8 +1,13 @@
 ---
-title:  "Welcome to my blog!"
-date:   2023-05-01 20:43:48 +1000
-categories: [personal]
-tags: [jekyll, coding, philosophy]
+title: Welcome to my blog!
+date: 2023-05-01 20:43:48 +1000
+categories:
+  - personal
+tags:
+  - jekyll
+  - coding
+  - philosophy
+cover: https://source.unsplash.com/6wAGwpsXHE0
 ---
 
 # Introduction

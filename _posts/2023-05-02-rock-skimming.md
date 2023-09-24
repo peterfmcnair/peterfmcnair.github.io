@@ -1,8 +1,11 @@
 ---
-title:  "Rock Skimming"
-date:   2023-05-02 20:05:15 +1000
-categories: [philosophy]
-tags: [philosophy]
+title: Rock Skimming
+date: 2023-05-02 20:05:15 +1000
+categories:
+  - philosophy
+tags:
+  - philosophy
+cover-img: https://source.unsplash.com/1w9Yi-znENg
 ---
 # Rock Skimming
 "Isn't it sad that all the best skimming rocks have probably already been skimmed".
