@@ -4,8 +4,7 @@ title: Spinifex Hopping Mouth
 date: 2023-09-23 21:47:59 +1000
 categories: 
 tags: 
-thumbnail-img: https://upload.wikimedia.org/wikipedia/commons/e/ed/Bilby_at_Sydney_Wildlife_World.jpg
-cover-img: https://upload.wikimedia.org/wikipedia/commons/e/ed/Bilby_at_Sydney_Wildlife_World.jpg
+cover-img: https://live.staticflickr.com/3290/2777957326_36be43b8b0_b.jpg
 ---
 # History of the Spinifex hopping mouth
 One of my favourite creatures is the Spinifex hopping mouse.
