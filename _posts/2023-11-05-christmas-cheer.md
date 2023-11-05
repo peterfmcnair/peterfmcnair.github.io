@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christmas Cheer
-date: 2023-11-05 11:00:00 +1000
+date: 2023-11-05
 description: 
 cover-img: https://source.unsplash.com/gQLB1hykPPc
 ---
