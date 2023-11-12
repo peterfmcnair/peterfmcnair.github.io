@@ -2,8 +2,10 @@
 layout: page
 title: Portfolio
 subtitle: My highlights and accomplishments
-permalink: /portfolio/
+permalink: /portfolio
 cover-img: assets/img/sunswift-rural-testing-thumbs-up.jpg
+created: 2023-09-28T21:00+10:00
+updated: 2023-11-12T18:55+11:00
 ---
 # Projects
 - [Sunswift VII](https://www.sunswift.com/)

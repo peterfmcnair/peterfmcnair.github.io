@@ -3,6 +3,8 @@ title: The Technical Filibuster
 date: 2023-05-04 17:31:30 +1000
 categories: 
 cover-img: https://source.unsplash.com/V5vqWC9gyEU
+created: 2023-09-28T21:01+10:00
+updated: 2023-09-24T15:13+10:00
 ---
 # What is the technical filibuster?
 As an engineer, the idea of a 'technical filibuster' is all too familiar. 

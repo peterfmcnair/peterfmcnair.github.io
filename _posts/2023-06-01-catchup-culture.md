@@ -6,6 +6,8 @@ categories:
 tags:
   - Australia
 cover-img: https://source.unsplash.com/nzyzAUsbV0M
+created: 2023-09-28T21:01+10:00
+updated: 2023-09-24T13:00+10:00
 ---
 
 # The Catchup Culture

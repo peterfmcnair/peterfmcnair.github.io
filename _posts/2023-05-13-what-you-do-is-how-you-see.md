@@ -5,6 +5,8 @@ tags:
   - career
   - perspective
 cover-img: https://source.unsplash.com/wpi3sDUrSEk
+created: 2023-09-28T21:01+10:00
+updated: 2023-09-24T13:46+10:00
 ---
 # Vocational tinting
 I have often wondered to what degree our jobs or vocations colour how we view the world.

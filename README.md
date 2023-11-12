@@ -1,3 +1,7 @@
+---
+created: 2023-09-28T21:00+10:00
+updated: 2023-09-22T08:44+10:00
+---
 # Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)

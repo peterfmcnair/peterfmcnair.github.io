@@ -6,6 +6,8 @@ categories:
 tags:
   - philosophy
 cover-img: https://source.unsplash.com/Dt86cdOH-x4
+created: 2023-09-28T21:01+10:00
+updated: 2023-09-24T13:30+10:00
 ---
 # What it feels like to begin
 Starting a blog, I am shocked by the sheer number of blogs out there already. I almost feel that I am doing a disservice to the world by adding to the noise; almost.

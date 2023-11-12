@@ -2,6 +2,8 @@
 layout: page
 title: Now
 permalink: /now
+created: 2023-09-28T21:00+10:00
+updated: 2023-08-31T10:12+10:00
 ---
 # Sunswift
 I'm currently the Embedded Systems lead at [Sunswift Racing](https://sunswift.com).
