@@ -357,7 +357,7 @@ defaults:
       path: ""
       type: "test"
     values:
-      layout: "post"
+      layout: "blog-post"
       permalink: /test/:title
       comments: true  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts      
