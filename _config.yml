@@ -255,7 +255,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 8
-paginate_path: "blog/page:num/"
+paginate_path: "test/page:num/"
 
 kramdown:
   input: GFM
@@ -272,7 +272,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      permalink: /test/:title
+      permalink: /blog/:title
       comments: true  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
   -
