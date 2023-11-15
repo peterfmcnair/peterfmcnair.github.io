@@ -10,14 +10,7 @@ layout: page
   ul.pager li {display: inline;border: 1px solid black; padding: 10px; margin: 5px;}
   .selected{ background-color: magenta; }
 </style>
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-  
-  {{ content | markdownify }}
-
-  <ul class="post-list">
+<ul class="posts-list list-unstyled" role="list">
     <!-- 
         Here is the main paginator logic called.
         All calls to site.posts should be replaced by paginator.posts 
