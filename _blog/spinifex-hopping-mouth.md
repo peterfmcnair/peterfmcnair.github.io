@@ -6,7 +6,7 @@ categories:
 tags: 
 cover-img: https://live.staticflickr.com/3290/2777957326_36be43b8b0_b.jpg
 created: 2023-09-28T21:01+10:00
-updated: 2023-09-24T19:47+10:00
+updated: 2023-11-15T17:12+11:00
 ---
 # History of the Spinifex hopping mouth
 One of my favourite creatures is the Spinifex hopping mouse.
@@ -17,5 +17,4 @@ A little known and highly endangered cousin of the Spinifex hopping mouse is the
 <p align="center">
   <img width="100%" height="100%" src="../assets/img/spinifex-hopping-mouth-drawing.svg">
 </p>
-
 *Image: A Spinifex hopping mouth in the wild*
