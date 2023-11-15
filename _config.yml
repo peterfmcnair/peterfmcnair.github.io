@@ -304,7 +304,7 @@ exclude:
   - "assets/img/*.md"
 
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
