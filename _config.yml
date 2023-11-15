@@ -263,7 +263,6 @@ kramdown:
 collections:
   blog:
     output: true
-    permalink: /:collection/:title
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
