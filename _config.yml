@@ -331,6 +331,8 @@ defaults:
       permalink: /blog/:title
       comments: true  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
+      pagination:
+        enabled: true
   -
     scope:
       path: ""
