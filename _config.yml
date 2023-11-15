@@ -261,7 +261,7 @@ kramdown:
   input: GFM
 
 collections:
-  blog:
+  test:
     output: true
 
 # Default YAML values (more information on Jekyll's site)
@@ -278,10 +278,10 @@ defaults:
 
     scope:
       path: ""
-      type: "blog"
+      type: "test"
     values:
       layout: "post"
-      permalink: /blog/:title
+      permalink: /test/:title
       comments: true  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
   -
