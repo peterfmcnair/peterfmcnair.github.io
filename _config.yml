@@ -254,9 +254,30 @@ timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
+
+
+
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
+
+autopages:
+  enabled: true
+  tags: 
+    layouts: 
+      - autopage_collections_tags.html
+     # - autopage_tags.html
+    enabled: true
+  categories:
+    layouts:
+      - autopage_cat.html
+    enabled: true
+  collections:
+    enabled: true
+    slugify:
+      mode: 'ascii'
+      cased: true  # Causes B+W tag to show up as it is written on the terry-pratchet-diary-2017.md page and not lowercase
+    
 pagination:
   
   # Site-wide kill switch, disabled here it doesn't run at all 
