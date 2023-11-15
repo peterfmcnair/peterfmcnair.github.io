@@ -4,10 +4,11 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.blog | default: site.blog %}
+{% assign posts = paginator.blog | default: site.blog | sort: 'date' | reverse%}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
+  
   {% for post in posts %}
   <li class="post-preview">
     <article>
