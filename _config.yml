@@ -344,7 +344,7 @@ defaults:
       social-share: false # add social media sharing buttons to all blog posts
       pagination: 
         enabled: true
-        collection: cupcakes
+        collection: test
       
   -
     scope:
