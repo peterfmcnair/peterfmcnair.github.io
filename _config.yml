@@ -264,10 +264,6 @@ collections:
   test:
     output: true
 
-pagination:
-  enabled: true
-  collection: test
-
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
