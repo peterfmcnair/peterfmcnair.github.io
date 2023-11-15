@@ -281,7 +281,7 @@ defaults:
       type: "test"
     values:
       layout: "post"
-      permalink: /test/:title
+      permalink: /:collection/:title
       comments: true  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
   -
