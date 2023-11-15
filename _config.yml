@@ -261,7 +261,7 @@ kramdown:
   input: GFM
 
 collections:
-  test:
+  blog:
     output: true
 
 # Default YAML values (more information on Jekyll's site)
