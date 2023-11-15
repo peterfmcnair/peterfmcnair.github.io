@@ -302,6 +302,10 @@ exclude:
   - screenshot.png
   - docs/
   - "assets/img/*.md"
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 plugins:
   - jekyll-paginate
