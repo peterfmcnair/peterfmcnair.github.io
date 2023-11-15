@@ -253,7 +253,7 @@ date_format: "%B %-d, %Y"
 timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
-permalink: /:collection/:title/
+permalink: /:year-:month-:day-:title/
 paginate: 8
 paginate_path: "blog/page:num/"
 
