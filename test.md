@@ -1,11 +1,11 @@
 ---
-layout: blog
-title: Home
+layout: home
+title: Test
 pagination:
   enabled: true
   collection: test
 created: 2023-11-16T10:32+11:00
-updated: 2023-11-16T11:04+11:00
+updated: 2023-11-16T11:08+11:00
 ---
 
 
