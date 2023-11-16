@@ -6,12 +6,12 @@ categories:
 tags: jekyll
 aliases:
   - Webdev Addiction
-cover-img: 
+cover-img: https://source.unsplash.com/eYpcLDXHVb0
 permalink: 
 description: 
 image: 
 created: 2023-11-16T14:27+11:00
-updated: 2023-11-16T14:47+11:00
+updated: 2023-11-16T14:53+11:00
 ---
 # My Strange Addiction
 I have to admit - I get addicted to webdev.
