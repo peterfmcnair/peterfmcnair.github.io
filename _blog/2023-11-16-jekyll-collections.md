@@ -6,12 +6,12 @@ categories:
 tags: 
 aliases:
   - 2023 11 16 jekyll collections
-cover-img: 
+cover-img: https://source.unsplash.com/GnvurwJsKaY
 permalink: 
 description: 
 image: 
 created: 2023-11-16T11:28+11:00
-updated: 2023-11-16T12:57+11:00
+updated: 2023-11-16T13:21+11:00
 ---
 
 
