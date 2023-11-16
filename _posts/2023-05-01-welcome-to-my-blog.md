@@ -9,7 +9,8 @@ tags:
   - philosophy
 cover-img: https://source.unsplash.com/6wAGwpsXHE0
 created: 2023-09-28T21:01+10:00
-updated: 2023-09-24T15:31+10:00
+updated: 2023-11-16T16:06+11:00
+permalink: 2023-05-01-welcome-to-my-blog
 ---
 
 # Introduction
