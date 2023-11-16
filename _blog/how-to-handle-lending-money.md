@@ -8,10 +8,10 @@ tags:
   - hack
 cover-img: https://source.unsplash.com/BeGCWVqpucE
 created: 2023-09-28T21:01+10:00
-updated: 2023-11-15T18:46+11:00
+updated: 2023-11-16T11:24+11:00
 ---
 # The dreaded "I'll foot the bill"
-In a [Catchup Culture](catchup-culture) like mine, it is inevitable that you will find yourself footing a shared bill. You have to find the money from somewhere (since it might be more than you've got to spend for the week), but it is only as a short term loan before your friends pay you back.
+In a [Catchup Culture](catchup-culture.md) like mine, it is inevitable that you will find yourself footing a shared bill. You have to find the money from somewhere (since it might be more than you've got to spend for the week), but it is only as a short term loan before your friends pay you back.
 
 ![](../assets/img/2023-08-31-drawing_0%201.svg)
 
@@ -24,4 +24,4 @@ This then lets you immediately tell if you have overdue loans - just eyeball you
 
 You should also 'pay yourself' back, i.e. pretend you are one of your friends! This way you get the wheels rolling on paying back. I also recommend setting up [PayID](https://payid.com.au/) so it is easy to allow friends to pay back in a timely way.
 
-I think of this "loans" account like [decoupling capacitors](https://en.wikipedia.org/wiki/Decoupling_capacitor) (sorry if this is pretty technical, after all [what you do is how you see](what-you-do-is-how-you-see)) on a circuit board. They provide a little extra juice (in this case cash) when the device (you) need it. This is then filled back up as people pay it back and it's obvious when it's fully "charged".
+I think of this "loans" account like [decoupling capacitors](https://en.wikipedia.org/wiki/Decoupling_capacitor) (sorry if this is pretty technical, after all [what you do is how you see](what-you-do-is-how-you-see.md)) on a circuit board. They provide a little extra juice (in this case cash) when the device (you) need it. This is then filled back up as people pay it back and it's obvious when it's fully "charged".

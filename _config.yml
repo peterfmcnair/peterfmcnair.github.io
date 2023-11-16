@@ -323,6 +323,8 @@ kramdown:
 collections:
   test:
     output: true
+  blog:
+    output: true
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -338,10 +340,10 @@ defaults:
   -
     scope:
       path: ""
-      type: "test"
+      type: "blog"
     values:
       layout: "post"
-      permalink: /test/:title
+      permalink: /blog/:title
       comments: true  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts      
   -
