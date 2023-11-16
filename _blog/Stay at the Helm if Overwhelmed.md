@@ -6,8 +6,9 @@ categories:
 tags:
   - philosophy
 cover-img: https://source.unsplash.com/CEMh4JRiSOI
+aliases: stay-at-the-helm-if-overwhelmed
 created: 2023-09-28T21:01+10:00
-updated: 2023-09-24T13:04+10:00
+updated: 2023-11-16T11:41+11:00
 ---
 # Where to start when things pile up
 ## "It's cornflakes at work right now"

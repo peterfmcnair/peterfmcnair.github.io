@@ -5,7 +5,7 @@ aliases:
 layout: post
 cover-img: https://source.unsplash.com/oMpAz-DN-9I
 created: 2023-09-28T21:01+10:00
-updated: 2023-11-15T18:15+11:00
+updated: 2023-11-16T11:41+11:00
 ---
 # How the modern work culture encourages info-binging
 The threat of not getting a job looms over the zoomers. The classic joke runs like this: "Entry-level graduate role, 5 years' industry experience required". [^1]
@@ -17,7 +17,7 @@ This is where the internet steps in. With at least 800 million videos on youtube
 There's too much. With many uni students suffering from [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome), the idea of presenting unfathomable amounts of upksilling content can be paralysing.
 
 ## Advice
-Similar to [stay at the helm if overwhelmed](stay-at-the-helm-if-overwhelmed.md), my advice is to stick with it. Every new thing you learn is something useful!
+Similar to [stay at the helm if overwhelmed](Stay%20at%20the%20Helm%20if%20Overwhelmed.md), my advice is to stick with it. Every new thing you learn is something useful!
 
 # References
 [^1]: [What to do When Entry-Level Jobs Ask for Years of Industry Experience](https://careersblog.uts.edu.au/entry-level-jobs-ask-years-industry-experience/)
