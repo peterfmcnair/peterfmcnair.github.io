@@ -3,7 +3,7 @@ layout: post
 title: Webdev Addiction
 date: 2023-11-16
 categories: 
-tags: 
+tags: jekyll
 aliases:
   - Webdev Addiction
 cover-img: 
@@ -11,7 +11,7 @@ permalink:
 description: 
 image: 
 created: 2023-11-16T14:27+11:00
-updated: 2023-11-16T14:45+11:00
+updated: 2023-11-16T14:47+11:00
 ---
 # My Strange Addiction
 I have to admit - I get addicted to webdev.
