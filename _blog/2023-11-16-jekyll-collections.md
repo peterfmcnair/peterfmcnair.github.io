@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-11-16-jekyll-collections
+title: Jekyll Collections
 date: 2023-11-16
 categories: 
 tags: 
@@ -11,7 +11,7 @@ permalink:
 description: 
 image: 
 created: 2023-11-16T11:28+11:00
-updated: 2023-11-16T12:49+11:00
+updated: 2023-11-16T12:52+11:00
 ---
 
 
