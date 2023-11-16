@@ -6,8 +6,9 @@ categories:
 tags:
   - philosophy
 cover-img: https://source.unsplash.com/1w9Yi-znENg
+aliases: Rock Skimming
 created: 2023-09-28T21:01+10:00
-updated: 2023-09-24T15:15+10:00
+updated: 2023-11-16T11:35+11:00
 ---
 # Rock Skimming
 "Isn't it sad that all the best skimming rocks have probably already been skimmed".
