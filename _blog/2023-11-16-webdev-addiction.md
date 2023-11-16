@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 2023-11-16-webdev-addiction
+title: Webdev Addiction
 date: 2023-11-16
 categories: 
 tags: 
 aliases:
-  - 2023 11 16 webdev addiction
+  - Webdev Addiction
 cover-img: 
 permalink: 
 description: 
 image: 
 created: 2023-11-16T14:27+11:00
-updated: 2023-11-16T14:38+11:00
+updated: 2023-11-16T14:40+11:00
 ---
 # My Strange Addiction
 I have to admit - I get addicted to webdev.
