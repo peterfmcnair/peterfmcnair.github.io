@@ -11,7 +11,7 @@ permalink:
 description: 
 image: 
 created: 2023-11-16T14:27+11:00
-updated: 2023-11-16T14:40+11:00
+updated: 2023-11-16T14:45+11:00
 ---
 # My Strange Addiction
 I have to admit - I get addicted to webdev.
@@ -22,3 +22,8 @@ I delayed dinner, put off relaxation for the night, all for what? For a website 
 I'm not even getting paid for it!
 
 Ironically I might feel less motivation to stay at it if I was getting paid for it - who knows.
+
+# Where did this come from?
+This stems from my explorations of [jekyll collections](2023-11-16-jekyll-collections).
+>[!tip] Like what you see?
+>If these notes gave you more free time to have coffees with friends, feel free to return the favour and [Buy me a Coffee](https://www.buymeacoffee.com/peterfmcnair)
