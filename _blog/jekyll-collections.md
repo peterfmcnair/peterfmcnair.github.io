@@ -11,7 +11,7 @@ permalink:
 description: 
 image: 
 created: 2023-11-16T11:28+11:00
-updated: 2023-11-16T12:43+11:00
+updated: 2023-11-16T12:45+11:00
 ---
 # How I got around the naming convention for Jekyll Posts
 It's annoying to have to write the date in the file name for jekyll posts since I want to have the same experience in my obsidian browser as my website does.
