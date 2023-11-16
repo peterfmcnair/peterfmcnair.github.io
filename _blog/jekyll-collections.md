@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Jekyll Collections
-date: 2023-11-16
+title: "{{title}}"
+date: "{{date:YYYY-MM-DD}}"
 categories: 
 tags: 
-aliases: Jekyll Collections
+aliases:
+  - jekyll collections
 cover-img: 
 permalink: 
 description: 
 image: 
-created: 2023-11-14T23:46+11:00
-updated: 2023-11-16T11:44+11:00
+created: 2023-11-16T11:28+11:00
+updated: 2023-11-16T12:43+11:00
 ---
 # How I got around the naming convention for Jekyll Posts
 It's annoying to have to write the date in the file name for jekyll posts since I want to have the same experience in my obsidian browser as my website does.
