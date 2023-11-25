@@ -6,12 +6,12 @@ categories:
 tags: 
 aliases:
   - Personal Embeds
-cover-img: https://source.unsplash.com/yDj9Hi4
+cover-img: https://source.unsplash.com/ugm-yDj9Hi4
 permalink: 
 description: 
 image: 
 created: 2023-11-24T12:38+11:00
-updated: 2023-11-25T13:08+11:00
+updated: 2023-11-25T13:09+11:00
 ---
 # Personal Embeds
 I have an image I'm linking to from Dropbox:
