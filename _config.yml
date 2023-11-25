@@ -255,7 +255,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 
-paginate: 1
+paginate: 5
 paginate_path: "/blog/page-:num/"
 
 kramdown:
