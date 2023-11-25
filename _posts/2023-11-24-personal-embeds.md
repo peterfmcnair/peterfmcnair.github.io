@@ -11,7 +11,7 @@ permalink:
 description: 
 image: 
 created: 2023-11-24T12:38+11:00
-updated: 2023-11-25T13:54+11:00
+updated: 2023-11-25T14:02+11:00
 ---
 # Personal Embeds
 Having been writing on this blog for a while now, I'd like to find the best way to embed quick videos for reference.
@@ -35,7 +35,7 @@ Next up is google drive. Since google photos and drive [removed the ability to a
 I have an image I'm linking to from Dropbox:
 ![](https://www.dropbox.com/scl/fi/oey3qw850g2ofnkifxzz6/Screenshot-2023-08-01-183417.png?rlkey=ejp3dhekzaqnposal7mr3escd&raw=1)
 And a dropbox video:
-<div style="width:100%;height:480px;background-color:black;text-align:center;"> <video style="height:100%;" controls> <source src="https://www.dropbox.com/scl/fi/7i1vg22caklsxvx5kmgqw/MVI_0935.MOV?rlkey=lgwtwk0pqv67w53rcgknqqtug&raw=1" type="video/mp4"> </video> </div>
+
 
 ## Flickr
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/199272368@N02/53354285328/in/dateposted-public/" title="VID-20230910-WA0032"><img src="https://live.staticflickr.com/31337/53354285328_d134ee871d_o.jpg" width="204" height="360" alt="VID-20230910-WA0032"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
