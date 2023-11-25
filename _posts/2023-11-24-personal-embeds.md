@@ -11,7 +11,7 @@ permalink:
 description: 
 image: 
 created: 2023-11-24T12:38+11:00
-updated: 2023-11-25T14:02+11:00
+updated: 2023-11-25T14:26+11:00
 ---
 # Personal Embeds
 Having been writing on this blog for a while now, I'd like to find the best way to embed quick videos for reference.
@@ -21,11 +21,6 @@ I currently use google photos, but annoyingly there is no evergreen way to link 
 ## Google Photos
 Video share link created on 2023-11-25, using [this tool](https://www.publicalbum.org/blog/embedding-google-photos-image).
 However this doesn't display in a jekyll website nor in a website hosted by obsidian, so I have a feeling this method won't work unfortunately. Strangely, it will display in my local obsidian files - more investigation needed.
-<div style="width:100%;height:480px;background-color:black;text-align:center;">
-  <video style="height:100%;" controls>
-    <source src="https://lh3.googleusercontent.com/pw/ADCreHdueV-upAkPNX1AaAqbfizHrdGRYxqR9c0ciRugZLKrQPreYTpkG762vavlD68NDyEJOcblgZldEo3IDXEvBiLi7dd93UkWAP5YgVDN2C6enoPyS2jB=m18" type="video/mp4">
-  </video>
-</div>
 Trying with an iframe does not work either.
 
 ## Google Drive
