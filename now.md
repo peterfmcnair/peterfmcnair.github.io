@@ -3,7 +3,7 @@ layout: page
 title: Now
 permalink: /now
 created: 2023-09-28T21:00+10:00
-updated: 2023-11-12T18:57+11:00
+updated: 2023-12-14T16:08+11:00
 ---
 # Sunswift
 I'm currently the Embedded Systems lead at [Sunswift Racing](https://sunswift.com).
@@ -17,4 +17,4 @@ Having established my website and becoming proficient in [obsidian](https://obsi
 I've kept a diary since 2016, however now I'm taking it one step further and sharing my thoughts with others.
 # Travel
 The travel bug inside of me is awakening as I watch alot of friends overseas and interstate.
-I'd like to travel after finishing uni next year and am currently thinking of backpacking and cycling across Europe.
+I'd like to travel after finishing uni next year and am currently thinking of backpacking and cycling across Europe. See [my notes](https://notes.peterfmcnair.com/) for more detailed planning.
