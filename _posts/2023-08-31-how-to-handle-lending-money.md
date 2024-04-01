@@ -8,10 +8,10 @@ tags:
   - hack
 cover-img: https://source.unsplash.com/BeGCWVqpucE
 created: 2023-09-28T21:01+10:00
-updated: 2023-12-14T15:36+11:00
+updated: 2024-04-01T14:40+11:00
 ---
 # The dreaded "I'll foot the bill"
-In a [catchup culture](2023-05-29-catchup-culture.md) like mine, it is inevitable that you will find yourself footing a shared bill. You have to find the money from somewhere (since it might be more than you've got to spend for the week), but it is only as a short term loan before your friends pay you back.
+In a [catchup culture](2023-05-29-catchup-culture) like mine, it is inevitable that you will find yourself footing a shared bill. You have to find the money from somewhere (since it might be more than you've got to spend for the week), but it is only as a short term loan before your friends pay you back.
 
 ![](../assets/img/2023-08-31-drawing_0%201.svg)
 
