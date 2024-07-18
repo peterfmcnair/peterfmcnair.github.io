@@ -11,4 +11,4 @@ Life has been moving very quickly lately, so I wanted to take a moment to catch 
 I have started a new gig as a Technology Translator through [TRaCE](www.trace.org.au). My team gives 'roadside assistance' to startups, SMEs and big industry players in clean energy and recycling fields.
 ## Travel
 I spent an incredible seven weeks travelling Europe. The standout was absolutely the Vatican – it was beautiful at every turn.
-![PXL_20240517_072443415.MP](PXL_20240517_072443415.MP.jpg)
+![PXL_20240517_072443415.MP](assets/img/PXL_20240517_072443415.MP.jpg)
