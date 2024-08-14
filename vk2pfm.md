@@ -1,9 +1,9 @@
 ---
 layout: page
-title: VK2PFM
+title: "Callsign: VK2PFM"
 permalink: /vk2pfm
 ---
-# Callsign: VK2PFM
+# Amateur Radio Course
 I have just completed my amateur radio licence and been given the call sign **VK2PFM**.
 
 VK - Australia
