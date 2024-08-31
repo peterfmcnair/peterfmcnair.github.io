@@ -13,7 +13,7 @@ Life has been moving very quickly lately, so I wanted to take a moment to catch 
 3. Started work
 4. House hunting
 ## Work
-I have started a new gig as a Technology Translator through [TRaCE](www.trace.org.au). My team gives 'roadside assistance' to startups, SMEs and big industry players in clean energy and recycling fields.
+I have started a new gig as a Technology Translator through [TRaCE](https://www.trace.org.au). My team gives 'roadside assistance' to startups, SMEs and big industry players in clean energy and recycling fields.
 ## Travel
 I spent an incredible seven weeks travelling Europe. The standout was absolutely the Vatican – it was beautiful at every turn.
 ![PXL_20240517_072443415.MP](assets/img/PXL_20240517_072443415.MP.jpg)
