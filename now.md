@@ -12,6 +12,7 @@ Life has been moving very quickly lately, so I wanted to take a moment to catch 
 2. Went travelling in Europe
 3. Started work
 4. House hunting
+
 ## Work
 I have started a new gig as a Technology Translator through [TRaCE](https://www.trace.org.au). My team gives 'roadside assistance' to startups, SMEs and big industry players in clean energy and recycling fields.
 ## Travel
