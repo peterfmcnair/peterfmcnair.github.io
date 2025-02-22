@@ -10,7 +10,7 @@ created: 2023-09-28T21:00+10:00
 updated: 2024-04-01T14:44+11:00
 ---
 # Me in 10 seconds
-I'm easily inspired, 
+I'm an easily inspired traveller, writer and engineer.
 
 # Me in 10 minutes
 See my ["about" page](about).
