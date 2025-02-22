@@ -34,5 +34,4 @@ And a dropbox video:
 
 ## Flickr
 <div><a data-flickr-embed="true" href="https://www.flickr.com/photos/199272368@N02/53354285328/in/dateposted-public/" title="VID-20230910-WA0032"><img src="https://live.staticflickr.com/31337/53354285328_d134ee871d_o.jpg" width="204" height="360" alt="VID-20230910-WA0032"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </div>
-## Youtube
-<iframe width="100%" height="480" src="https://www.youtube-nocookie.com/embed/Z-RqHz5EJqo?si=cubh9NKtKWYLCNqS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
