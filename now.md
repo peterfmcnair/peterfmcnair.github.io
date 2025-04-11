@@ -18,5 +18,3 @@ I have started a new gig as a Technology Translator through [TRaCE](https://www.
 ## Travel
 I spent an incredible seven weeks travelling Europe. The standout was absolutely the Vatican – it was beautiful at every turn.
 ![PXL_20240517_072443415.MP](assets/img/PXL_20240517_072443415.MP.jpg)
-## House Hunting
-I'm on the lookout for a place close to uni so my commute isn't quite as hectic!
