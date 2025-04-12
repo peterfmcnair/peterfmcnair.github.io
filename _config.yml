@@ -11,7 +11,7 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 
 # Name of website
-title: Peter's Site
+title: peterfmcnair
 
 # Your name to show in the footer
 author: Peter McNair
@@ -20,9 +20,10 @@ author: Peter McNair
 ###############################################
 
 navbar-links:
+  ⇄ notes: https://notes.peterfmcnair.com
   # Blog: "blog"
-  Notes: "https://notes.peterfmcnair.com"
-  Portfolio: "portfolio"
+  # Notes: "https://notes.peterfmcnair.com"
+  # Portfolio: "portfolio"
   # Now: "now"
   # About: "about"
   
@@ -108,7 +109,7 @@ feed_show_excerpt: false
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: false
