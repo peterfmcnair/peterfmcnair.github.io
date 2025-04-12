@@ -1,5 +1,5 @@
 ---
-title: peterfmcnair – home
+title: Hi! I'm Peter
 subtitle: Thanks for dropping by.
 cover-img:
   - /assets/PXL_20230209_082554967-compressed.jpg: Sydney Harbour Bridge (2023)
