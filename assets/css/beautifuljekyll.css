@@ -286,7 +286,7 @@ img {
     border-top-width: 1px;
   }
 }
-
+/*
 @media (max-width: 1199px) {
   .navbar-custom .navbar-collapse {
     border-top: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
@@ -376,7 +376,7 @@ img {
     width: 100%;
   }
 }
-
+*/
 /* --- Footer --- */
 
 footer {
