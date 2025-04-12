@@ -1,6 +1,6 @@
 ---
-title: Hi, I'm Peter
-subtitle: Welcome to my world!
+title: Hi! I'm Peter
+subtitle: Thanks for dropping by.
 cover-img:
   - /assets/PXL_20230209_082554967-compressed.jpg: Sydney Harbour Bridge (2023)
   - /assets/PXL_20230104_234256170-compressed.jpg: Narooma Breakwater (2023)
@@ -9,16 +9,7 @@ cover-img:
 created: 2023-09-28T21:00+10:00
 updated: 2024-04-01T14:44+11:00
 ---
-# Me in 10 seconds
-I'm an easily inspired traveller, writer and engineer.
+# About me
+A recently converted Aussie running acolyte, you'll find me at my happiest in Sydney's beautiful Centennial park.
 
-# Me in 10 minutes
-See my ["about" page](about).
-
-# What am I doing now?
-See my ["now" page](now).
-
-# Where am I writing?
-You can explore [my blog](blog) for personal ruminations and anecdotes and [my notes](https://notes.peterfmcnair.com) for a more objective knowledge base.
-
-I'm also developing some opinion and informative pieces on medium - check these out at [medium.com/@peterfmcnair](https://medium.com/@peterfmcnair).
+I'm a hardware guy. In my capacity as a Technology Translator, I develop motor controllers for drone powertrains, develop power electronics to improve solar panel performance and investigate novel forms of energy storage (gravity anyone?) at the megawatt scale.
