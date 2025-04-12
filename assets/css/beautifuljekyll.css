@@ -204,7 +204,7 @@ img {
 }
 
 .navbar-custom .navbar-nav .nav-item {
-  /*text-transform: uppercase;*/
+  text-transform: uppercase;
   font-size: 0.8125rem;
   letter-spacing: 0.0625rem;
 }
@@ -1122,17 +1122,5 @@ pre {
   }
   #nav-search-text {
     display: inline-block;
-  }
-}
-
-
-/* Change Navbar breakpoints */
-@media (min-width: 0px){
-  .navbar-collapse {          
-    
-    display: flex !important; // stylelint-disable-line declaration-no-important
-
-    // Changes flex-bases to auto because of an IE10 bug
-    flex-basis: auto;
   }
 }
