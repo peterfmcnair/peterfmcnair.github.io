@@ -1,6 +1,7 @@
 ---
 title: Hi! I'm Peter
 subtitle: Thanks for dropping by.
+layout: home
 cover-img:
   - /assets/PXL_20230209_082554967-compressed.jpg: Sydney Harbour Bridge (2023)
   - /assets/PXL_20230104_234256170-compressed.jpg: Narooma Breakwater (2023)
