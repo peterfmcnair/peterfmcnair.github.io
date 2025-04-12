@@ -20,11 +20,11 @@ author: Peter McNair
 ###############################################
 
 navbar-links:
-  Blog: "blog"
+  # Blog: "blog"
   Notes: "https://notes.peterfmcnair.com"
   Portfolio: "portfolio"
-  Now: "now"
-  About: "about"
+  # Now: "now"
+  # About: "about"
   
 url: https://www.peterfmcnair.com
 ################
