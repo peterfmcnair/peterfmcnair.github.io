@@ -317,7 +317,7 @@ img {
 @media (max-width: 1199px) {
   .navbar-custom .navbar-collapse {
     border-top: 1px solid var(--navbar-border-col);
-    margin: 0 -1rem;
+    margin: 0rem;
   }
 
   .navbar-custom .navbar-nav {
