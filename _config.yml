@@ -43,7 +43,7 @@ avatar: "assets/img/Peter-Profile1.jpg"
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/website favicon/favicon-32x32.png"
+title-img: "android-chrome-512x512.png"
 
 #####################################
 # --- Footer social media links --- #
