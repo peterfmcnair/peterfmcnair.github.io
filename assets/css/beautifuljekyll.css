@@ -145,7 +145,7 @@ layout: null
   --footer-col: var(--flexoki-50); /* {{ site.footer-col | default: var(--flexoki-50) }}; */
   --footer-text-col: var(--flexoki-black); /* {{ site.footer-text-col | default: var(--flexoki-black) }}; */
   --footer-link-col: var(--flexoki-paper); /* {{ site.footer-link-col | default:  var(--flexoki-paper) }}; */
-  --footer-hover-col: ; var(--flexoki-150)/* {{ site.footer-hover-col | default: var(--flexoki-150) }}; */
+  --footer-hover-col: var(--flexoki-150);/* {{ site.footer-hover-col | default: var(--flexoki-150) }}; */
 
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
