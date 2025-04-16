@@ -133,9 +133,7 @@ layout: null
   --flexoki-magenta-850:     #4F1B39;
   --flexoki-magenta-900:     #39172B;
   --flexoki-magenta-950:     #24131D;
-}
 
-:root {
   /* config file CSS variables */
   --page-col: {{ site.page-col | default: var(--flexoki-paper) }};
   --text-col: {{ site.text-col | default: var(--flexoki-black) }};
