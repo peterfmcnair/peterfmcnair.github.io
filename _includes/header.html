@@ -56,6 +56,7 @@
   <span class='img-desc'></span>
 </div>
 {% endif %}
+{% if !page.cover-img %}
 <div class="intro-header no-img">
   <div class="container-md">
     <div class="row">
@@ -88,6 +89,7 @@
     </div>
   </div>
 </div>
+{% endif %}
 
 {% if page.header-extra %}
   {% for file in page.header-extra %}
