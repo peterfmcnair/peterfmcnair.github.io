@@ -8,7 +8,7 @@ cover-img:
   - /assets/PXL_20230104_232545990-compressed.jpg: Australia Rock, Narooma (2023)
 created: 2023-09-28T21:00+10:00
 updated: 2024-04-01T14:44+11:00
-layout: base
+layout: default
 ---
 # About me
 A recently converted Aussie running acolyte, you'll find me at my happiest in Sydney's beautiful Centennial park.
