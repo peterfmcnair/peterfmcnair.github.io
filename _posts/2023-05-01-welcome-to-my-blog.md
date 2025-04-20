@@ -7,7 +7,7 @@ tags:
   - jekyll
   - coding
   - philosophy
-cover-img: https://source.unsplash.com/6wAGwpsXHE0
+cover-img: belinda-fewings-6wAGwpsXHE0-unsplash.jpg
 created: 2023-09-28T21:01+10:00
 updated: 2023-11-16T16:06+11:00
 permalink: 2023-05-01-welcome-to-my-blog
