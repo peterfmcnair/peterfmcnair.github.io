@@ -135,17 +135,17 @@ layout: null
   --flexoki-magenta-950:     #24131D;
 
   /* config file CSS variables */
-  --page-col: var(--flexoki-paper); /*{{ site.page-col | default: var(--flexoki-paper) }}*/
-  --text-col: var(--flexoki-black); /* {{ site.text-col | default: var(--flexoki-black) }}; */
-  --link-col: var(--flexoki-cyan-400); /* {{ site.link-col | default: var(--flexoki-cyan-400) }}; */
-  --hover-col: var(--flexoki-150); /* {{ site.hover-col | default: var(--flexoki-150) }}; */
-  --navbar-col: var(--flexoki-50);/* {{ site.navbar-col | default: var(--flexoki-50) }}; */
-  --navbar-text-col: var(--flexoki-black);/* {{ site.navbar-text-col | default: var(--flexoki-black) }}; */
-  --navbar-border-col: var(--flexoki-100);/* {{ site.navbar-border-col | default: var(--flexoki-100) }}; */
-  --footer-col: var(--flexoki-50); /* {{ site.footer-col | default: var(--flexoki-50) }}; */
-  --footer-text-col: var(--flexoki-black); /* {{ site.footer-text-col | default: var(--flexoki-black) }}; */
-  --footer-link-col: var(--flexoki-paper); /* {{ site.footer-link-col | default:  var(--flexoki-paper) }}; */
-  --footer-hover-col: var(--flexoki-150);/* {{ site.footer-hover-col | default: var(--flexoki-150) }}; */
+  --page-col: var(--flexoki-paper);
+  --text-col: var(--tx);
+  --link-col: var(--flexoki-cyan-600);
+  --hover-col: var(--flexoki-150);
+  --navbar-col: var(--flexoki-50);
+  --navbar-text-col: var(--flexoki-black);
+  --navbar-border-col: var(--flexoki-100);
+  --footer-col: var(--flexoki-50);
+  --footer-text-col: var(--flexoki-black);
+  --footer-link-col: var(--flexoki-paper);
+  --footer-hover-col: var(--flexoki-150);
 
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
@@ -154,6 +154,23 @@ layout: null
 }
 
 /* --- General --- */
+
+@media (prefers-color-scheme: dark) {
+    /* config file CSS variables */
+    body {
+      --page-col: var(--flexoki-black);
+      --text-col: var(--flexoki-200);
+      --link-col: var(--flexoki-cyan-400);
+      --hover-col: var(--flexoki-150);
+      --navbar-col: var(--flexoki-950);
+      --navbar-text-col: var(--flexoki-200);
+      --navbar-border-col: var(--flexoki-900);
+      --footer-col: var(--flexoki-950);
+      --footer-text-col: var(--flexoki-200);
+      --footer-link-col: var(--flexoki-paper);
+      --footer-hover-col: var(--flexoki-850);
+    }
+}
 
 html {
   font-size: 100%
