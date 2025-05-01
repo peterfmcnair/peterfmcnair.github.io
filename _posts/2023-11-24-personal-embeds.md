@@ -6,7 +6,7 @@ categories:
 tags: 
 aliases:
   - Personal Embeds
-cover-img: https://source.unsplash.com/ugm-yDj9Hi4
+cover-img: assets/img/marek-okon-ugm-yDj9Hi4-unsplash.jpg
 permalink: 
 description: 
 image: 
@@ -25,13 +25,7 @@ Trying with an iframe does not work either.
 
 ## Google Drive
 Next up is google drive. Since google photos and drive [removed the ability to access google photos in drive](https://blog.google/products/photos/simplifying-google-photos-and-google-drive/)
-
-## Drop Box
-I have an image I'm linking to from Dropbox:
-![](https://www.dropbox.com/scl/fi/oey3qw850g2ofnkifxzz6/Screenshot-2023-08-01-183417.png?rlkey=ejp3dhekzaqnposal7mr3escd&raw=1)
-And a dropbox video:
-
-
 ## Flickr
+Super reliable - will work ad infinitum I suspect.
 <div><a data-flickr-embed="true" href="https://www.flickr.com/photos/199272368@N02/53354285328/in/dateposted-public/" title="VID-20230910-WA0032"><img src="https://live.staticflickr.com/31337/53354285328_d134ee871d_o.jpg" width="204" height="360" alt="VID-20230910-WA0032"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> </div>
 

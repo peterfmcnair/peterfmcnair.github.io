@@ -6,7 +6,7 @@ categories:
 tags: 
 aliases:
   - download the temporal lobe Release
-cover-img: https://source.unsplash.com/3KGF9R_0oHs
+cover-img: assets/img/robina-weermeijer-3KGF9R_0oHs-unsplash.jpg
 permalink: 
 description: 
 image: 
