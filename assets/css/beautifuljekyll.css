@@ -136,7 +136,8 @@ layout: null
 
   /* config file CSS variables */
   --page-col: var(--flexoki-paper);
-  --text-col: var(--tx);
+  --text-col: var(--flexoki-black);
+  --tx-2: var(--flexoki-600);
   --link-col: var(--flexoki-cyan-600);
   --hover-col: var(--flexoki-150);
   --navbar-col: var(--flexoki-50);
@@ -157,9 +158,10 @@ layout: null
 
 @media (prefers-color-scheme: dark) {
     /* config file CSS variables */
-    body {
+    :root {
       --page-col: var(--flexoki-black);
       --text-col: var(--flexoki-200);
+      --tx-2: var(--flexoki-500);
       --link-col: var(--flexoki-cyan-400);
       --hover-col: var(--flexoki-150);
       --navbar-col: var(--flexoki-950);
@@ -630,7 +632,7 @@ footer .footer-custom-content {
 
 .post-preview {
   padding: 1.25rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid var(--navbar-border-col);
   overflow: hidden;
 }
 
@@ -667,7 +669,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: var(--mid-col);
+  color: var(--tx-2);
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
@@ -703,6 +705,8 @@ footer .footer-custom-content {
 .post-preview .post-image img {
   max-height: 100%;
   max-width: 100%;
+  border-radius: 10px;
+  object-fit: cover
 }
 .post-preview .post-image-short {
   margin-top: -2.1875rem;
@@ -754,7 +758,7 @@ footer .footer-custom-content {
 }
 
 .blog-tags span {
-  color: var(--text-col);
+  color: var(--tx-2s);
   opacity: 0.8;
 }
 
@@ -933,6 +937,25 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 /* --- Pagination --- */
 
+.wj-pagination {
+  text-align: center;
+}
+
+.wj-pagination a, .wj-pagination span {
+  padding: 7px 18px;
+  border: 2px solid var(--page-col);
+  margin-left: -2px;
+  margin-right: -2px;
+  display: inline-block;
+}
+
+.wj-pagination a:hover {    
+  background-color: var(--text-col);
+  color: var(--footer-hover-col);
+  border-radius: 10px
+}
+
+
 .pagination {
   margin: 0.625rem 0 0;
   justify-content: space-between;
@@ -954,7 +977,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 .pagination .page-item .page-link {
   font-family: var(--header-font);
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-size: 0.875rem;
   font-weight: 800;
   letter-spacing: 1px;
@@ -975,6 +998,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   border: 1px solid var(--hover-col);
   background-color: var(--hover-col);
 }
+
 
 /* --- Tables --- */
 
